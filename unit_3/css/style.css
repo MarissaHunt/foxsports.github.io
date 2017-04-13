@@ -1,0 +1,14 @@
+
+h1 {
+	text-align: center;
+}
+body {
+    text-align: center;
+    background-color: #002544
+    color: #fff
+    font-family: Helvetica;
+}
+
+#slogan {
+	font-style: italic;
+}
