@@ -4,11 +4,15 @@ h1 {
 }
 body {
     text-align: center;
-    background-color: #002544
-    color: #fff
+    background: url(https://postimg.org/image/5bpimr5et/);
+    background-size: cover;
+    color: #002544;
     font-family: Helvetica;
 }
 
 #slogan {
 	font-style: italic;
+}
+p {
+	font-size: 22px;
 }
